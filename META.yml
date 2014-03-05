@@ -1,0 +1,23 @@
+---
+abstract: 'Powerful Data Validation Framework'
+author:
+  - 'Al Newkirk <anewkirk@ana.io>'
+build_requires:
+  perl: v5.10.0
+configure_requires:
+  ExtUtils::MakeMaker: 6.30
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 5.013, CPAN::Meta::Converter version 2.132830'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Validation-Interface
+requires:
+  perl: v5.10.0
+resources:
+  bugtracker: https://github.com/alnewkirk/Validation-Interface/issues
+  homepage: https://github.com/alnewkirk/Validation-Interface
+  repository: git://github.com/alnewkirk/Validation-Interface.git
+version: 0.01_01
+x_authority: cpan:AWNCORP
